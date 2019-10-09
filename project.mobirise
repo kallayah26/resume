@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Contact.html",
+    "currentPage": "Education.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2333,7 +2333,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/smaller-2-460x230.png",
+                "image": "@PROJECT_PATH@/assets/images/fsu-3-2000x870.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -2348,11 +2348,11 @@
                 "contentAlign": "center",
                 "text": "<b>Tallahassee, Florida&nbsp;<br>Bachelors of Science in Information, Communication and Technology<br>Expected Graduation- May 2020<br>GPA: 3.8/4.0</b><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "overlayOpacity": "0.4",
-                "overlayColor": "#232323"
+                "overlayOpacity": "0.6",
+                "overlayColor": "#0f7699"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -2366,10 +2366,12 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "GEM Fellowship applicant&nbsp;<br>Gold Scholarship- Grace Hopper Foundation&nbsp;<br>Station1 Frontiers Research Fellow&nbsp;<br>Cambridge AICE Diploma<br>Florida Bright Futures Academic Scholarship<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.6",
+                "overlayColor": "#0f7699"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1920.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -2382,11 +2384,13 @@
                 "title": "<b>Skills</b>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Proto.io&nbsp;<br>SharePoint&nbsp;<br>Web design- HTML<br>Adobe Illustrator + Photoshop&nbsp;<br>C++, Java, Python&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "<b>Proto.io&nbsp;<br>SharePoint&nbsp;<br>Web design- HTML<br>Adobe Illustrator + Photoshop&nbsp;<br>C++, Java, Python&nbsp;</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.6",
+                "overlayColor": "#0f7699"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -2401,7 +2405,8 @@
                 "contentAlign": "right",
                 "text": "<b>Design For America Florida State Chapter<br>Lambda Pi Eta Honors Society Member<br>Education committee for the FSU iSchool Undergraduate representative<br></b><i><br></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#003d45"
+                "overlayColor": "#0f7699",
+                "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
